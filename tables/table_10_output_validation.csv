@@ -1,0 +1,8 @@
+Output File,Available
+processed_ceas_dataset.csv,True
+processed_enron_dataset.csv,True
+processed_spamassassin_dataset.csv,True
+merged_email_dataset.csv,True
+deduplicated_email_dataset.csv,True
+cleaned_master_email_dataset.csv,True
+tokenizer_info.json,True

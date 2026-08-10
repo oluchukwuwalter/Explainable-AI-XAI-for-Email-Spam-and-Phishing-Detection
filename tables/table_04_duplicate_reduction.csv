@@ -1,0 +1,7 @@
+Metric,Value
+Original Records,493237.0
+Duplicate Records Removed,234581.0
+Final Records,258656.0
+Duplicate Reduction Rate (%),47.56
+Dataset Retention Rate (%),52.44
+Uniqueness Rate (%),52.44

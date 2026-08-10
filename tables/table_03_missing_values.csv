@@ -1,0 +1,7 @@
+Column,Missing Values,Percentage (%)
+dataset,0,0.0
+subject,7921,3.062
+body,48,0.019
+email_text,0,0.0
+label,0,0.0
+cleaned_email_text,0,0.0

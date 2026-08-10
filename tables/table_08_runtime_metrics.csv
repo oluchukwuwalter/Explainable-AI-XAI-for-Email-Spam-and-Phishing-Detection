@@ -1,0 +1,8 @@
+Stage,Time (Seconds)
+CEAS Processing,
+Enron Processing,3508.22
+SpamAssassin Processing,
+Dataset Integration,
+Global Deduplication,
+Text Cleaning,
+Transformer Tokenization,

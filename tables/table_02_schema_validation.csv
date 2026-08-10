@@ -1,0 +1,7 @@
+Column,Present
+dataset,True
+subject,True
+body,True
+email_text,True
+label,True
+cleaned_email_text,True
