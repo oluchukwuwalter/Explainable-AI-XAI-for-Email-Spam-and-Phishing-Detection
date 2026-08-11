@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.994
+Balanced Accuracy,0.976678877
+ROC-AUC,0.998388278
+PR-AUC,0.987926367
+Matthews Correlation Coefficient,0.963072758
+Cohen's Kappa,0.962999507

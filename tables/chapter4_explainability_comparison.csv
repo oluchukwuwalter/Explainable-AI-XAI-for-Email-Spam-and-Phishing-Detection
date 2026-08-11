@@ -1,0 +1,9 @@
+Aspect,LIME,SHAP
+Model Type,Transformer,Hybrid Transformer + XGBoost
+Primary Explanation,Word Importance,Feature Contribution
+Local Explanation,Excellent,Excellent
+Global Explanation,Limited,Excellent
+Word-Level Interpretation,Yes,No
+Embedding-Level Interpretation,No,Yes
+Computational Cost,Lower,Higher
+Deployment Suitability,Excellent,Excellent

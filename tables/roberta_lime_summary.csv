@@ -1,0 +1,5 @@
+Case,True Label,Predicted Label,Confidence
+Spam Case 1,Spam,Spam,0.998103
+Spam Case 2,Spam,Spam,0.998069
+Ham Case 1,Ham,Ham,0.997829
+Ham Case 2,Ham,Ham,0.997788
